@@ -8,3 +8,4 @@ The main goal of this task is to build a machine learning model using Python and
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/281e8733-f2a1-49fe-92ae-67937c642750)
