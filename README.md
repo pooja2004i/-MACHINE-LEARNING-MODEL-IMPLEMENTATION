@@ -6,6 +6,10 @@ Machine Learning (ML) model implementation involves building a predictive or cla
 Objective:
 The main goal of this task is to build a machine learning model using Python and the scikit-learn library. The model should be able to analyze input data, learn from it, and make predictions or classifications based on new, unseen data. The task involves the complete pipeline: from loading and preprocessing the data to training, testing, and evaluating a machine learning model.
 
+Tools and Libraries Used:
+Programming Language: Python
+Overall, the internship was a valuable learning experience that enhanced my technical and problem-solving skills across different domains in Python.
+
 OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/281e8733-f2a1-49fe-92ae-67937c642750)
