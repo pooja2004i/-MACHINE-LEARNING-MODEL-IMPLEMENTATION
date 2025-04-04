@@ -1,5 +1,17 @@
 # -MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: POOJA I
+
+INTERN ID: CT04WU140
+
+DONAIN: PYTHON PROGRAMMING 
+
+DURATION: 4 HEEEKS
+
+MENTOR: NEELA SANTOSH
+
 Task 4: Machine Learning Model Implementation
 The final task required building a predictive model using Scikit-learn. I chose a spam detection model where the dataset was trained using the Naive Bayes algorithm.
 Machine Learning (ML) model implementation involves building a predictive or classification model using data and algorithms that learn patterns automatically. This task is essential for applications such as spam detection, sentiment analysis, image recognition, and more. It gives learners a foundational understanding of how data can be used to train machines to make intelligent decisions.
